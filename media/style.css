@@ -1,0 +1,40 @@
+header {
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
+
+main {
+    height: 150px;
+    width: 100%;
+    background-color: burlywood;
+}
+
+footer {
+    height: 150px;
+    width: 100%;
+    background-color: goldenrod;
+}
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.liNavTop {
+    display: inline-block;
+    padding: 10px 15px;
+}
+
+.liNavTop a {
+    color: white;
+    text-decoration: none;
+}
+
+.liNavTop a:hover {
+    background-color: lavender;
+    color: lavender;
+}
+
