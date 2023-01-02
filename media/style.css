@@ -1,11 +1,11 @@
 header {
-    height: 150px;
+    height: 100px;
     width: 100%;
     background-color: black;
 }
 
 main {
-    height: 150px;
+    height: 600px;
     width: 100%;
     background-color: burlywood;
 }
