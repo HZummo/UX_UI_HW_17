@@ -31,7 +31,7 @@ footer {
 .liNavTop a {
     color: white;
     text-decoration: none;
-    text-align: end;
+    text-align: right;
 }
 
 .liNavTop a:hover {
