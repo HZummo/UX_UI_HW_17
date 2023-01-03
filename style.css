@@ -31,7 +31,6 @@ footer {
 .liNavTop a {
     color: white;
     text-decoration: none;
-    text-align: right;
 }
 
 .liNavTop a:hover {
@@ -48,6 +47,7 @@ footer {
     
 background-color: black;
 color: white;
+text-align: right;
 }
 
 .mainBody {
