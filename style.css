@@ -29,7 +29,7 @@ footer {
 }
 
 .liNavTop a {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
@@ -40,7 +40,7 @@ footer {
 
 .ulNavTop {
     list-style-type: none;
-    margin: 2;
+    margin: 0;
     padding: 1;
     font-size: 24px;
     overflow: hidden;  
