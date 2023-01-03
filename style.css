@@ -51,7 +51,7 @@ footer {
 
 .mainBody {
     display: grid;
-    grid-template-columns: 2fr 5fr 5fr;
+    grid-template-columns: 1fr 5fr 5fr;
     grid-gap: 10px;
     height: auto;
     margin-top: 10px;
